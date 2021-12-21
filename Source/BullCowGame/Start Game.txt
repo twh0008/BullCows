@@ -1,0 +1,10 @@
+Start Game
+Set Hidden word -> seeded from a dictionary?
+Get length of word for lives
+Set Guesses to length of word
+Check if isogram
+If isogram, get numbers of bulls and cows
+Bulls being correct letters
+Cows being wrong letters
+If guess is isogram and not correct, print numbers of bulls and cows and subtract 1 live
+If correct, win and replay loop
